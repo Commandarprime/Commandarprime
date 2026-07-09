@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:2D1B4E&height=200&section=header&text=PRIYANSHU%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20MICROSERVICES&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:2D1B4E&height=200&section=header&text=PRIYANSHU%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20MICROSERVICES&descAlignY=60&descSize=16&animation=twinkling" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-1bb7a51b5/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](psingh2001singh@gmail.com)
@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ### 🚀 About Me
 
@@ -24,7 +23,8 @@
 
 > * "Make it work, make it right, make it fast." — Kent Beck
 
----
+
+
 
 ### 🛠️ Tech Stack
 
@@ -119,18 +119,16 @@ Full-stack e-commerce platform — React/Redux frontend deployed on Vercel, Spri
 
 </div>
 
+
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Commandarprime&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Commandarprime&theme=github-compact&bg_color=0D1117&color=2E8B57&line=2E8B57&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
-
----
-
 ### 🎓 Education
 
 🏫 **Bundelkhand University** — Bachelor of Technology, Computer Science Engineering
