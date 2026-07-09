@@ -1,17 +1,24 @@
 <div align="center">
 
-# Hi 👋, I'm Priyanshu Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,50:1B4B5A,100:0A0A2A&height=220&section=header&text=Priyanshu%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&descSize=18" width="100%"/>
 
-### Java Backend Developer | Spring Boot | Microservices |
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Location](https://img.shields.io/badge/-Kanpur%2C%20India-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
-- 🔭 I'm currently building **Distributed Banking System** — a microservices-based backend with Spring Boot, Kafka, RabbitMQ, Redis, and PostgreSQL
-- 🛒 I've also built and deployed **Erangel FashionHub** — a full-stack e-commerce platform (React + Spring Boot + MySQL + Razorpay)
+---
+
+### 👋 About Me
+
+- 🔭 Currently building **Distributed Banking System** — a microservices-based backend with Spring Boot, Kafka, RabbitMQ, Redis, and PostgreSQL
+- 🛒 Built and deployed **Erangel FashionHub** — a full-stack e-commerce platform (React + Spring Boot + MySQL + Razorpay)
 - 💼 Open to **Java Backend / Full-Stack Developer** roles
 - 🌱 Deepening my knowledge of Java Collections internals, Concurrency, and Spring Boot annotations
 - 💬 Ask me about Java, Spring Boot, Microservices architecture, or DSA (Binary Search / Sliding Window / Two Pointer)
-- 📫 Reach me at: **psingh2001singh@gmail.com**
 
 ---
 
@@ -34,12 +41,4 @@
 Microservices architecture with Auth, Account, Transaction & Notification services — Eureka Service Registry, Config Server, Kafka + RabbitMQ integration.
 
 **[Erangel FashionHub](https://erangel-fashionhub.vercel.app)**
-Full-stack e-commerce platform — React/Redux frontend, Spring Boot backend, Razorpay payment integration.
-
----
-
-### 📊 GitHub Stats
-
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Commandarprime&show_icons=true&theme=radical)
-
-</div>
+Full-stack e-commerce platform — React/Redux
