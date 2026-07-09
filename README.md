@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A2A,50:1B4B5A,100:2E8B57&height=230&section=header&text=Priyanshu%20Singh&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:2D1B4E&height=200&section=header&text=PRIYANSHU%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20MICROSERVICES&descAlignY=60&descSize=16" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-1bb7a51b5/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](psingh2001singh@gmail.com)
 [![Location](https://img.shields.io/badge/-Kanpur%2C%20India-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1B4B5A?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
 
 </div>
 
@@ -13,16 +13,16 @@
 
 ### 🚀 About Me
 
-> 💚 *Turning complex business requirements into clean, scalable backend systems.*
+> 💙 I write Java that talks to databases, and databases that don't crash at 2 AM.
 
-- 🏗️ Building **distributed, microservices-based systems** — currently architecting a full-scale **Banking System** with independent Auth, Account, Transaction & Notification services
+- 🏗️ Built a **distributed, microservices-based systems** — currently architecting a full-scale **Banking System** with independent Auth, Account, Transaction & Notification services
 - 🛍️ Shipped **Erangel FashionHub** — a production e-commerce platform end-to-end, from database design to payment gateway integration
-- 💼 Actively looking for **Java Backend / Full-Stack Developer** opportunities
+- 💼 **Actively looking for **Java Backend / Full-Stack Developer** opportunities
 - ⚙️ Deep diving into **Java Collections internals, Concurrency, and Spring Boot internals** for interview-grade mastery
 - 🧩 I enjoy untangling gnarly bugs as much as designing clean architecture from scratch
-- 📫 Reach me at **[your-email@gmail.com](mailto:your-email@gmail.com)**
+- 📫 Reach me at **[psingh2001singh@gmail.com](mailto:psingh2001singh@gmail.com)**
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> * "Make it work, make it right, make it fast." — Kent Beck
 
 ---
 
@@ -134,7 +134,7 @@ Full-stack e-commerce platform — React/Redux frontend deployed on Vercel, Spri
 ### 🎓 Education
 
 🏫 **Bundelkhand University** — Bachelor of Technology, Computer Science Engineering
-`2020 – 2024` · CGPA: 8.86
+`2020 – 2024` · CGPA: 7.86
 
 ---
 
